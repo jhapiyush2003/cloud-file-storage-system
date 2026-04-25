@@ -1,0 +1,12 @@
+# Local data and uploads
+/data/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store

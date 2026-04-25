@@ -1,5 +1,4 @@
-import streamlit as st
+from src.app import main
 
-st.title("Cloud File Storage System")
-st.success("App Running Successfully 🚀")
-st.write("Deploy Successful 🔥")
+if __name__ == "__main__":
+    main()
