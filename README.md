@@ -1,19 +1,28 @@
-# Cloud File Storage System
+# ☁️ Piyush Cloud Storage
 
-A polished Streamlit-based cloud storage interface built with local SQLite persistence, secure password hashing, uploads, downloads, previews, search, and user dashboards.
+A premium cloud storage dashboard built using Python, Streamlit, SQLite and modern UI design.
 
-## Features
+## 🚀 Features
 
-- User signup and login
-- Password hashing with SHA-256
-- SQLite backend for users and file metadata
-- File upload, download, delete
-- Search by filename and description
-- Image and PDF preview in the browser
-- Personal user dashboard with storage metrics
-- Modern dark UI styling
+- Secure Login / Signup
+- File Upload System
+- Dashboard Analytics
+- Search Files
+- Storage Usage Cards
+- Beautiful Responsive UI
+- SQLite Database
+- Streamlit Deployment
 
-## Run locally
+## 🛠 Tech Stack
+
+- Python
+- Streamlit
+- SQLite
+- CSS Custom UI
+
+## 🌐 Live Demo
+
+https://piyush-cloud-storage.streamlit.app/
 
 1. Install dependencies:
 
