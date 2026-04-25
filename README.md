@@ -22,7 +22,7 @@ A premium cloud storage dashboard built using Python, Streamlit, SQLite and mode
 
 ## 🌐 Live Demo
 
-https://ubiquitous-zebra-69r7wgrqqw952r5xx-8501.app.github.dev/
+https://piyush-cloud-storage.streamlit.app/
 
 1. Install dependencies:
 
