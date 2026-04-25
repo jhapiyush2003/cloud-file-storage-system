@@ -180,4 +180,4 @@ with col3:
 
 # ---------------- FOOTER ----------------
 st.write("")
-st.caption("Made by Piyush Jha 🚀")git add .
+st.caption("Made by Piyush Jha 🚀")
