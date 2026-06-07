@@ -1,11 +1,12 @@
 import streamlit as st
 import os
 from datetime import datetime
-from src.db import (init_db, get_user_by_username, get_user_by_email,
-                    create_user, update_password, save_file,
-                    get_files, delete_file, toggle_star, get_stats)
-from src.utils import (ensure_dir, fmt_size, get_type, icon, color,
-                       hash_pw, verify_pw, valid_email, safe_name)
+from db import (init_db, get_user_by_username, get_user_by_email,
+                create_user, update_password, save_file,
+                get_files, delete_file, toggle_star, get_stats)
+
+from utils import (ensure_dir, fmt_size, get_type, icon, color,
+                   hash_pw, verify_pw, valid_email, safe_name)
 
 # ─────────────────────────────────────────────────────────────────────────────
 st.set_page_config(page_title="Piyush Cloud", page_icon="⬡", layout="wide",
